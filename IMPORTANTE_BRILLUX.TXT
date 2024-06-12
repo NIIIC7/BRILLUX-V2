@@ -1,0 +1,17 @@
+### Proyecto de Venta de Productos de Limpieza - Brillux
+
+Este proyecto web de venta de productos de limpieza, desarrollado bajo el nombre "Brillux", ha sido construido utilizando las siguientes herramientas y tecnologías:
+
+- **Java Standard Edition 8 O 7**: Utilizado como el lenguaje de programación principal para la lógica del backend.
+- **GlassFish 6.2.5 o inferior**: Se empleó como el servidor de aplicaciones para desplegar y ejecutar la aplicación web.
+
+### Contenido de los Archivos Comprimidos:
+
+#### 1. `carrito.rar`
+Este archivo comprimido contiene las imágenes de los productos que deben ser colocadas dentro de la carpeta `C:\xampp\htdocs` para su correcta visualización en la interfaz web.
+
+#### 2. `carritocompras.rar`
+Dentro de este archivo comprimido se encuentra el proyecto completo junto con todas las librerías necesarias para su ejecución. Todo lo necesario para desplegar y ejecutar la aplicación está incluido en este archivo.
+
+Para ejecutar el proyecto, simplemente descomprime el archivo `carritocompras.rar`, importa el proyecto en tu IDE preferido y asegúrate de tener configurado GlassFish 6.2.5 o una versión inferior para su despliegue.
+
